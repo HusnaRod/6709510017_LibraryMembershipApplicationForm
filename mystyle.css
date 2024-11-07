@@ -17,7 +17,7 @@ width: 50%;
 footer{background-color: red;
 text-align: center;}
 .inform {
-    background-color: yellow;
+    background-color: rgba(255, 255, 0, 0.723);
 }
 main p{
  float: left;
