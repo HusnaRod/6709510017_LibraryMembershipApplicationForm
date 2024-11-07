@@ -1,17 +1,24 @@
 main{
     background-color: red;
+    display: flex;
+    align-items: center;
 }
 form{
-    background-color: yellow;
+   background-image: url(resources/TU.jpg) ;
+   background-size: cover;
+   background-position: center;
+        background-repeat: no-repeat;
     margin-top: -21px;
+    text-align: center;
 }
 h1{background-color: red;
 width: 50%;
-text-align: center;
 }
 footer{background-color: red;
 text-align: center;}
-.inform tr th form{
-    width: 50px;
-
+.inform {
+    background-color: yellow;
+}
+main p{
+ float: left;
 }
